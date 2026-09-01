@@ -1,6 +1,7 @@
 # 🏆 Smart India Hackathon 2026 – Winners PPT & Resources
 
 <div align="center">
+<img width="376" height="242" alt="image" src="https://github.com/user-attachments/assets/cdb820c7-bca1-4de1-9b25-4c310851db73" />
 
 <img src="assets/sih-logo.jpeg" alt="Smart India Hackathon 2026" width="500"/>
 
@@ -37,6 +38,8 @@ Whether you're participating in your **first SIH** or aiming to take your projec
 ---
 
 ## 🏆 Smart India Hackathon
+<img width="616" height="358" alt="image" src="https://github.com/user-attachments/assets/ebc395a2-8ec1-415c-b6e8-b329c684800e" />
+
 
 <div align="center">
 
@@ -207,7 +210,8 @@ Your support can help thousands of students prepare better for **Smart India Hac
 
 ### 🚀 Let's Create the Next SIH Winning Project!
 
-<img src="assets/sih-logo.jpeg" alt="Smart India Hackathon" width="300"/>
+**<img width="235" height="149" alt="image" src="https://github.com/user-attachments/assets/32148a71-8b61-4a01-b62f-d4d6c0ebab24" />
+**
 
 **Made with ❤️ for the Indian Student & Innovation Community 🇮🇳**
 
